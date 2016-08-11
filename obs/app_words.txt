@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Translation for the unfoldingWord mobile app interface //
 
+मीटोंग बड़राम सुनाव : मीटोंग बड़राम सुनाव
 
-Select a language: Select a Language
+पाठकून: पाठकून
 
+बड़राकून: बड़राकून
 
-Chapters: Chapters
+एटाः पाठ: एटाः पाठr
 
-
-Languages: Languages
-
-
-Next chapter: Next Chapter
-
-
-OK: OK
-
+ठीक: ठीक
 
 Cancel: Cancel
 
-
 Save locally: Save Locally
-
 
 Save this string: Save this language locally for offline use.
 
-
 Remove locally: Remove Locally
-
 
 Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
